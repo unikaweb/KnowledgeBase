@@ -5,6 +5,8 @@
 
 # Статьи по Docker
 1.  [Docker. Начало](https://habr.com/ru/post/353238/)
+2.  [Разработка под Docker. Локальное окружение.](https://habr.com/ru/post/459972/)
+3.  [Запуск PHP приложения на Docker контейнерах (PHP-FPM, Nginx, PostgreSQL)](https://habr.com/ru/post/316802/)
 
 # GUI for Docker
 1.  [Статья по популярным оболочкам докера](https://habr.com/ru/company/flant/blog/338332/)
