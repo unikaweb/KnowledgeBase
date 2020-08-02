@@ -2,6 +2,7 @@
 1.  [Stepik](https://stepik.org/lesson/43105/step/2?unit=21175)
 2.  [Серия уроков на youtube](https://youtu.be/EbEZgdTOHzE)
 3.  [Большое видео (рекомендуют)](https://youtu.be/QF4ZF857m44)
+4.  [Как поднять Laravel в Docker (Nginx, Fpm, MySQL)](https://youtu.be/2wGEirrpWsU)
 
 # Статьи по Docker
 1.  [Docker. Начало](https://habr.com/ru/post/353238/)
