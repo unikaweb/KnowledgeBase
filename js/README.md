@@ -8,3 +8,6 @@
 
 ## Палитра
 1. [Палитра Spectrum](https://seballot.github.io/spectrum/)
+
+## Инструменты
+1.  [Babel - компилирует ES6 в ES5](https://babeljs.io/)
