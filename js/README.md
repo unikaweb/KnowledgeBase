@@ -11,3 +11,6 @@
 
 ## Инструменты
 1.  [Babel - компилирует ES6 в ES5](https://babeljs.io/)
+
+## WYSIWYG
+1.  [Удобный и красивый редактор](https://support.ckeditor.com/hc/en-us)
