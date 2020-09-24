@@ -9,3 +9,6 @@
 2.  [Symphony](frameworks/symphony/README.md)
 3.  [RedBean](frameworks/redBean/README.md)
 4.  [Slim3](frameworks/slim3/README.md)
+
+# Обучение
+1.  [Unit tests](https://laracasts.com/topics/phpunit)
