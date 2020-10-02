@@ -12,3 +12,10 @@
 
 # Обучение
 1.  [Unit tests](https://laracasts.com/topics/phpunit)
+
+# Фишки
+1.  Чтобы зарегистрировать политику без модели, в `AuthServiceProvoder` нужна следующая запись:  
+```php
+['policy' => NamePolicy::class];
+```
+Но использование политики совсем без модели - не правильно.
