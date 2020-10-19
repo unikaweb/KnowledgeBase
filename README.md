@@ -13,3 +13,4 @@
 10. [Design](design/README.md)
 11. [Регулярные выражения](regexp/README.md)
 12. [Bash](bash/README.md)
+13. [Refactoring](https://refactoring.guru/ru)
