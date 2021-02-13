@@ -10,4 +10,4 @@
 1.  [Сервисные скрипты Службы Заботы](https://github.com/Umisoft/support-tools)
 # Лайфхаки
 1.  [Разовый запуск php файла из корня](./lifehacks/oncePhp.md)
-2.  [Разрешение на запуск php файлов для новых релизов юми](./lifehacks/)
+2.  [Разрешение на запуск php файлов для новых релизов юми](./lifehacks/htaccess.md)
